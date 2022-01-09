@@ -4,6 +4,8 @@
 
 This uses AWS services to create a chatbot that will recommend an investment portfolio for a retirement plan.  Users will communicate through a chatbot and after a few simple questions and with the use of machine learning and NLP, our robo advisor will provide the most suitable retirement plan.
 
+To use the robo advisor, use ```lambda_function.py``` in Lambda folder.
+
 ---
 ## AWS Services
 
